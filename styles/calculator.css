@@ -1,0 +1,21 @@
+.calculator {
+  width: 100%;
+  max-width: 37.5rem;
+  margin: 10% 0 0 10%;
+}
+
+.calculator h1 {
+  font-size: 3.75rem;
+}
+
+.calculator h1 span {
+  color: #ffff76;
+}
+
+.result {
+  font-size: 1.25rem;
+}
+
+.result span {
+  color: #ffff74;
+}
